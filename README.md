@@ -14,9 +14,6 @@ The Notes App is a lightweight application designed to help users easily create,
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Agarwal16/notes.git`
-2. Navigate to the project directory: `cd notes`
-3. Install dependencies: `npm install`
-4. Start the application: `npm start`
 
 ## Usage
 
